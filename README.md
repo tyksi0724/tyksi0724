@@ -25,12 +25,15 @@ $$ |  $$ |$$ |  $$ |$$\ $$ |  $$ |$$ |  $$ |$$ |  $$ |
 [![My Skills](https://skillicons.dev/icons?i=c,swift,java,python,html,css,)](https://skillicons.dev)
 
 # Stats
+
 <a href="https://github.com/tyksi0724">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tyksi0724&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/tyksi0724">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyksi0724&layout=compact&theme=tokyonight" />
 </a>
+<br>
+</br>
 
 # Other
 ## tyksi0724
