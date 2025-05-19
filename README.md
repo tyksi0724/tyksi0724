@@ -21,23 +21,21 @@ $$ |  $$ |$$ |  $$ |$$\ $$ |  $$ |$$ |  $$ |$$ |  $$ |
  \______/ \__|   \____/ \__|  \__| \______/ \_______/                                         
 ```
 
-# My Skill
+# Skill
 [![My Skills](https://skillicons.dev/icons?i=c,swift,java,python,html,css,)](https://skillicons.dev)
 
 # Stats
 
-<a href="https://github.com/tyksi0724">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tyksi0724&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/tyksi0724">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyksi0724&layout=compact&theme=tokyonight" />
-</a>
-<br>
-</br>
+<div align="center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyksi0724&theme=tokyonight)
 
+</div>
+  
 # Other
+
 ## tyksi0724
 Still Getting ready!
+
 ## Contact
 [Web](https://icebo.jp)
 
@@ -55,6 +53,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-LINK 
-ASCII ART ()
 -->
